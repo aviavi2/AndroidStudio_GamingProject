@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">GamingProject</string>
+    <string-array name="genre_array">
+        <item>Sports</item>
+        <item>Action</item>
+        <item>Fighting</item>
+        <item>Strategy</item>
+    </string-array>
+
+    <string-array name="company_array">
+        <item>EA SPORTS</item>
+        <item>Namco</item>
+        <item>Ubisoft</item>
+        <item>Rockstar</item>
+    </string-array>
+
+    <string-array name="series_array">
+        <item>FIFA</item>
+        <item>TEKKEN</item>
+        <item>Heroes of Might and Magic</item>
+        <item>Red Dead</item>
+        <item>Assassins Creed</item>
+        <item>PAC-MAN</item>
+        <item>Grand Theft Auto</item>
+
+    </string-array>
+
+    <string name="a69"> <![CDATA[<a href="https://www.youtube.com/watch?v=tuLAn9adQpI&ab_channel=EASPORTSFIFA">Watch Trailer!</a>]]></string>
+    <string name="a70"> <![CDATA[<a href="https://www.youtube.com/watch?v=9E4HMgh7ZsE&ab_channel=EASPORTSFIFA">Watch Trailer!</a>]]></string>
+    <string name="a71"> <![CDATA[<a href="https://www.youtube.com/watch?v=zX0AV6yxyrQ&ab_channel=EASPORTSFIFA">Watch Trailer!</a>]]></string>
+    <string name="a72"> <![CDATA[<a href="https://www.youtube.com/watch?v=1R54tvvR374&ab_channel=EAMobileGames">Watch Trailer!</a>]]></string>
+    <string name="a73"> <![CDATA[<a href="https://www.youtube.com/watch?v=_QXL50nwnI4&ab_channel=BandaiNamcoEntertainmentRomania">Watch Trailer!</a>]]></string>
+    <string name="a74"> <![CDATA[<a href="https://www.youtube.com/watch?v=wXX2XrILyvY&ab_channel=xxMur4txx">Watch Trailer!</a>]]></string>
+    <string name="a75"> <![CDATA[<a href="https://www.youtube.com/watch?v=kKLCwDg2JLA&ab_channel=GameNews">Watch Trailer!</a>]]></string>
+    <string name="a76"> <![CDATA[<a href="https://www.youtube.com/watch?v=IpI6eLlfQzc&ab_channel=forverdream15">Watch Trailer!</a>]]></string>
+    <string name="a77"> <![CDATA[<a href="https://www.youtube.com/watch?v=Qdaqd1EA1uQ&ab_channel=IGN">Watch Trailer!</a>]]></string>
+    <string name="a78"> <![CDATA[<a href="https://www.youtube.com/watch?v=ssrNcwxALS4&ab_channel=IGN">Watch Trailer!</a>]]></string>
+    <string name="a79"> <![CDATA[<a href="https://www.youtube.com/watch?v=s7qB4IMJicc&ab_channel=RapidTrailer">Watch Trailer!</a>]]></string>
+    <string name="a80"> <![CDATA[<a href="https://www.youtube.com/watch?v=cK4iAjzAoas&ab_channel=DigicPictures">Watch Trailer!</a>]]></string>
+    <string name="a81"> <![CDATA[<a href="https://www.youtube.com/watch?v=WTBbwgsyxvg&ab_channel=Ubisoft">Watch Trailer!</a>]]></string>
+    <string name="a82"> <![CDATA[<a href="https://www.youtube.com/watch?v=Q0ssvN_iXmg&ab_channel=Khalbrae">Watch Trailer!</a>]]></string>
+    <string name="a83"> <![CDATA[<a href="https://www.youtube.com/watch?v=smNr3wfhtpQ&ab_channel=VladimirVelikanov">Watch Trailer!</a>]]></string>
+    <string name="a84"> <![CDATA[<a href="https://www.youtube.com/watch?v=vdJRKWfzpuA&ab_channel=Ubisoft">Watch Trailer!</a>]]></string>
+    <string name="a85"> <![CDATA[<a href="https://www.youtube.com/watch?v=4DBrnd-nDCQ&ab_channel=cdkeys.online">Watch Trailer!</a>]]></string>
+    <string name="a86"> <![CDATA[<a href="https://www.youtube.com/watch?v=j2QAos9BSvU&ab_channel=KwasowaGrota">Watch Trailer!</a>]]></string>
+    <string name="a87"> <![CDATA[<a href="https://www.youtube.com/watch?v=N-exuahRl2g&ab_channel=RockstarWatch">Watch Trailer!</a>]]></string>
+    <string name="a88"> <![CDATA[<a href="https://www.youtube.com/watch?v=-o7rES_3ymA&ab_channel=RockstarGames">Watch Trailer!</a>]]></string>
+    <string name="a89"> <![CDATA[<a href="https://www.youtube.com/watch?v=Dw_oH5oiUSE&ab_channel=RockstarGames">Watch Trailer!</a>]]></string>
+    <string name="a90"> <![CDATA[<a href="https://www.youtube.com/watch?v=MdlhjRlNyA8&ab_channel=HitokageProduction">Watch Trailer!</a>]]></string>
+    <string name="a91"> <![CDATA[<a href="https://www.youtube.com/watch?v=EaS_pCjHTgY&ab_channel=gtavideos">Watch Trailer!</a>]]></string>
+    <string name="a92"> <![CDATA[<a href="https://www.youtube.com/watch?v=agACYOeuX7k&ab_channel=GameSpot">Watch Trailer!</a>]]></string>
+    <string name="a93"> <![CDATA[<a href="https://www.youtube.com/watch?v=M80K51DosFo&ab_channel=RockstarGames">Watch Trailer!</a>]]></string>
+    <string name="a94"> <![CDATA[<a href="https://www.youtube.com/watch?v=QkkoHAzjnUs&ab_channel=RockstarGames">Watch Trailer!</a>]]></string>
+
+
+
+
+</resources>
+
