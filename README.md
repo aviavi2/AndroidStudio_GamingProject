@@ -7,4 +7,4 @@ like release date,distributing and developing company, trailer , general descrip
 the user can easily find games by categories such as genre, company and series.
 
 #### Developing tools
-android studio and sqlite database
+android studio,java and sqlite database
